@@ -1,5 +1,4 @@
-# AmazonPriceTracker
-## 簡易のアマゾンスクレイピング
+# AmazonPriceTracker 簡易のアマゾンスクレイピング
 
 python３　-m venv venv
 
